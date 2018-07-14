@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1531581055 source:c:\users\asus\desktop\músicas\practicando\batleship\main.cpp
+	<iostream>
+
+1531583632 source:c:\users\asus\desktop\músicas\practicando\batleship\src\actor.cpp
+	"Actor.h"
+
+1531584868 c:\users\asus\desktop\músicas\practicando\batleship\include\actor.h
+	"tools.h"
+
+1531588076 c:\users\asus\desktop\músicas\practicando\batleship\include\tools.h
+	<allegro.h>
+	<list>
+	<iostream>
+	"Game.h"
+	"Lista_de_J.h"
+	"Actor.h"
+	"Mapa.h"
+
+1531588519 c:\users\asus\desktop\músicas\practicando\batleship\include\mapa.h
+	"tools.h"
+
+1531589727 c:\users\asus\desktop\músicas\practicando\batleship\include\game.h
+	"tools.h"
+
+1531587355 c:\users\asus\desktop\músicas\practicando\batleship\include\lista_de_j.h
+	"tools.h"
+	"Game.h"
+
+1531588907 source:c:\users\asus\desktop\músicas\practicando\batleship\src\mapa.cpp
+	"tools.h"
+	"Mapa.h"
+	"Game.h"
+	"Lista_de_J.h"
+	"Actor.h"
+
+1531589727 source:c:\users\asus\desktop\músicas\practicando\batleship\src\game.cpp
+	"tools.h"
+	"Game.h"
+	"Mapa.h"
+	"Lista_de_J.h"
+
+1531589024 source:c:\users\asus\desktop\músicas\practicando\batleship\src\lista_de_j.cpp
+	<algorithm>
+	"tools.h"
+	"Lista_de_J.h"
+	"Actor.h"
+
